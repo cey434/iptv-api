@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-15 20:33:26,http://ms.fxim.net:808/hls/1/index.m3u8$订阅源
+2025-09-15 20:33:25,http://ms.fxim.net:808/hls/1/index.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://ms.fxim.net:808/hls/1/index.m3u8$订阅源
